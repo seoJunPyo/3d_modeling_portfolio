@@ -12,7 +12,7 @@ https://leejaehyun0000.wixsite.com/jaehyun/sci-fi-corridor-1
 ### 요구사항
 - 편리하게 새로운 포토폴리오를 추가할 수 있는 기능
 - 포토폴리오를 볼 수 있는 페이지
-- 연락처 및 개인 정보를 공개할 수 있는 페이지
+- About Me 페이지
 - 디자인은 따로 제약은 없음
 
 <br>
@@ -35,6 +35,6 @@ https://leejaehyun0000.wixsite.com/jaehyun/sci-fi-corridor-1
 
 <br>
 
-#### 
+#### About Me 페이지
 ![image](https://github.com/seoJunPyo/3d_modeling_portfolio/assets/114892495/0f7216ba-e238-45b5-bb05-821a9a548a06)
 - 디자인 개선
