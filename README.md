@@ -40,4 +40,4 @@ https://leejaehyun0000.wixsite.com/jaehyun/sci-fi-corridor-1
 - 디자인 개선
 
 ## 기술 스택
-`Next.js` `Primsa` `Tailwind`
+`Next.js` `Prisma` `Tailwind`
