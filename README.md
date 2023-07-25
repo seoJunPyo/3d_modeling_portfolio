@@ -38,3 +38,6 @@ https://leejaehyun0000.wixsite.com/jaehyun/sci-fi-corridor-1
 #### About Me 페이지
 ![image](https://github.com/seoJunPyo/3d_modeling_portfolio/assets/114892495/0f7216ba-e238-45b5-bb05-821a9a548a06)
 - 디자인 개선
+
+## 기술 스택
+`Next.js` `Primsa` `Tailwind`
