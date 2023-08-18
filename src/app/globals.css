@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+	--transition-duration: 0.2s;
+}
+
+body {
+	background-color: rgb(250 250 250);
+	color: rgb(23 23 23);
+	transition: all var(--transition-duration);
+	display: none;
+}
+
+body.dark {
+	background-color: rgb(23 23 23);
+	color: white;
+}
